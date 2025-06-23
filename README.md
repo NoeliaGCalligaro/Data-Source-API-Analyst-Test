@@ -41,8 +41,9 @@ Demostrar el uso de la **API REST de GitHub** para:
 ## ✍️ Reflexión
 
 Esta tarea me permitió aplicar habilidades que vengo desarrollando para buscar, seleccionar y organizar información de forma precisa. Trabajar con la API de GitHub fue una buena oportunidad para combinar ese enfoque con herramientas técnicas, resolviendo desafíos como la autenticación, la paginación y el manejo de errores.
-
 Elegí usar Google Colab porque me resulta práctico para documentar y ejecutar código en un mismo espacio. Me gustó poder estructurar un proceso completo de extracción y análisis de datos, cuidando también la claridad de la documentación.
+
+
 ---
 
 ## 📎 Documentación de referencia
