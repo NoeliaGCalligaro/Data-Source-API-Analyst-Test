@@ -27,7 +27,15 @@ Demostrar el uso de la **API REST de GitHub** para:
 ---
 ### 📁 Estructura del repositorio
 
-<pre> 📦 Data-Source-API-Analyst-Test ├── 📄 README.md ├── 📁 Content │ ├── 📄 github_api_analyst.ipynb → Notebook con el desarrollo en Colab │ ├── 📄 api_notes.md → Documentación sobre la API y endpoints │ └── 📄 troubleshooting.md → Guía de resolución de errores comunes ├── 📁 Postman_Collection │ ├── 📄 repositorios.json → Respuesta obtenida con la API │ └── 📄 repositorios_README.md → Descripción del contenido del .json </pre>
+<pre> 📦 Data-Source-API-Analyst-Test 
+  ├── 📄 README.md 
+  ├── 📁 Content 
+  │ ├── 📄 github_api_analyst.ipynb → Notebook con el desarrollo en Colab 
+  │ ├── 📄 api_notes.md → Documentación sobre la API y endpoints 
+  │ └── 📄 troubleshooting.md → Guía de resolución de errores comunes 
+  ├── 📁 Postman_Collection 
+  │ ├── 📄 repositorios.json → Respuesta obtenida con la API 
+  │ └── 📄 repositorios_README.md → Descripción del contenido del .json </pre>
 
 
 ## ✍️ Reflexión
