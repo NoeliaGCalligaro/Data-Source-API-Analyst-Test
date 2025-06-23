@@ -26,18 +26,7 @@ Demostrar el uso de la **API REST de GitHub** para:
 
 ---
 
-## 🧪 Estructura del repositorio
-Data-Source-API-Analyst-Test/
-│
-├── README.md
-├── Content/
-│ ├── repositorios.json # Respuesta del endpoint search/repositories
-│ ├── commits.json 
-│ └── contenido_readme.json 
-│
-└── Postman_Collection/
-└── github_api_analyst.ipynb # Notebook principal con todo el código y pruebas
----
+
 
 ## ✍️ Reflexión
 
