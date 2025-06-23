@@ -25,13 +25,16 @@ Demostrar el uso de la **API REST de GitHub** para:
 - Formato de salida en `.json`
 
 ---
+### 📁 Estructura del repositorio
 
+<pre> 📦 Data-Source-API-Analyst-Test ├── 📄 README.md ├── 📁 Content │ ├── 📄 github_api_analyst.ipynb → Notebook con el desarrollo en Colab │ ├── 📄 api_notes.md → Documentación sobre la API y endpoints │ └── 📄 troubleshooting.md → Guía de resolución de errores comunes ├── 📁 Postman_Collection │ ├── 📄 repositorios.json → Respuesta obtenida con la API │ └── 📄 repositorios_README.md → Descripción del contenido del .json </pre>
 
 
 ## ✍️ Reflexión
 
-Me pareció una tarea muy clara para poner en práctica el uso real de una API pública, manejar autenticación, paginación y errores. Elegí trabajar con Google Colab por comodidad, ya que permite documentar y ejecutar código de forma integrada.
+Esta tarea me permitió aplicar habilidades que vengo desarrollando para buscar, seleccionar y organizar información de forma precisa. Trabajar con la API de GitHub fue una buena oportunidad para combinar ese enfoque con herramientas técnicas, resolviendo desafíos como la autenticación, la paginación y el manejo de errores.
 
+Elegí usar Google Colab porque me resulta práctico para documentar y ejecutar código en un mismo espacio. Me gustó poder estructurar un proceso completo de extracción y análisis de datos, cuidando también la claridad de la documentación.
 ---
 
 ## 📎 Documentación de referencia
